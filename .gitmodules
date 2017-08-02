@@ -1,0 +1,6 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/gscept/glfw
+[submodule "DevIL"]
+	path = DevIL
+	url = https://github.com/gscept/DevIL.git
